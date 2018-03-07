@@ -5,29 +5,3 @@ body {
     padding: 0;
     font-family: sans-serif;
 }
-
-input.narrow {
-    width: 200px;
-}
-
-.tableContent {
-    min-height: 100px;
-    margin: 20px 15px;
-    padding: 10px 20px;
-    border: 1px solid gainsboro;
-    box-shadow: 5px 5px 5px gainsboro;
-}
-
-.tableContent .checkboxGroup {
-    margin: 10px 0 20px;
-    font-size: 2em;
-    display: block;
-}
-
-.searchBar {
-    margin-left: 50px;
-}
-
-.searchBar input[type="text"] {
-    min-width: 300px;
-}

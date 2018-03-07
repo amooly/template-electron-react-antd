@@ -45,7 +45,6 @@ module.exports = {
         new webpack.EnvironmentPlugin(["NODE_ENV"]),
         new CopyWebpackPlugin([
             {from: path.resolve(SRC_PATH, 'main.js'), to: 'main.js'},
-            {from: path.resolve(SRC_PATH, 'backend'), to: 'backend'},
             {from: path.resolve(SRC_PATH, 'ui/index.html'), to: 'index.html'},
             {from: path.resolve(__dirname, 'package.json'), to: 'package.json'}
         ])
