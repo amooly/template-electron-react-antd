@@ -1,11 +1,11 @@
 {
-  "name": "BXSQL",
-  "version": "3.2.5",
+  "name": "<application name>",
+  "version": "<version>",
   "main": "main.js",
   "scripts": {
     "start": "webpack --watch",
     "test": "ENV=dev electron app",
-    "build": "electron-packager app BXSQL --icon ./src/ui/img/1.icns --overwrite"
+    "build": "electron-packager app <application name> --icon <icon path> --overwrite"
   },
   "devDependencies": {
     "antd": "^3.0.1",
