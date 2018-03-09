@@ -4,25 +4,25 @@ By using it,developer can quickly start a new project for electron.
 
 ## How to use
 
-First step: Install the dependencies
+- First step: Install the dependencies
 
 ```shell
 $ yarn install
 ```
 
-Second step: Run webpack.
+- Second step: Run webpack.
 
 ```shell
 $ yarn start
 ```
 
-Third step: Start electron app.
+- Third step: Start electron app.
 
 ```shell
 $ yarn test
 ```
 
-Most important step:  
+- Most important step:  
 For now, you get start to develop your own app happily.  
 **You are free to use F5 or Ctrl+R to reflash electron app without restart it During your development.**
 
