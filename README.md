@@ -22,8 +22,8 @@ Third step: Start electron app.
 $ yarn test
 ```
 
-Most important step:
-For now, you get start to develop your own app happily.
+Most important step:  
+For now, you get start to develop your own app happily.  
 **You are free to use F5 or Ctrl+R to reflash electron app without restart it During your development.**
 
 ## Last but not least
